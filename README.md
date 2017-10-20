@@ -5,5 +5,5 @@
 Usa los servicios de **Firebase** "Database as a Service (DBaaS)" para guardar los eventos en la nube y **Cloud Messaging** (también de Firebase) para enviar notificaciones a los usuarios de cuando hay un nuevo evento.
 
 ![Screenshot](Screenshot_2017-06-06-10-23-46.png)
-![Screenshot] (Screenshot_20_de octubre_de2017 11_12AM.png)
-![Screenshot] (Screenshot_2017-09-12-12-32-57.png)
+![Screenshot](Screenshot_20_de octubre_de2017 11_12AM.png)
+![Screenshot](Screenshot_2017-09-12-12-32-57.png)
