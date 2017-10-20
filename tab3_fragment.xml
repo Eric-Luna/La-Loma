@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+    android:padding="15dp"
+    android:background="#EEEEEE">
+
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical">
+
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Código de Colores"
+          android:textColor="#000000"
+          android:padding="4dp"
+          android:background="#EEEEEE"
+          android:textSize="18dp"
+          android:textStyle="bold"
+          android:textAlignment="center"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Familia de la Providencia"
+          android:textColor="#000000"
+          android:padding="4dp"
+          android:background="#FFFFFF"
+          android:textSize="18dp"
+          android:textAlignment="center"
+          />
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:text="JM"
+          android:textColor="#000000"
+          android:background="#42A5F5"
+          android:padding="4dp"
+          android:textSize="18dp"
+          android:textAlignment="center"
+          />
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:text="JF"
+          android:textColor="#000000"
+          android:background="#FBA4FD"
+          android:padding="4dp"
+          android:textSize="18dp"
+          android:textAlignment="center"
+          />
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:text="Juventud"
+          android:textColor="#000000"
+          android:background="#EF5350"
+          android:padding="4dp"
+          android:textSize="18dp"
+          android:textAlignment="center"
+          />
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:text="Madres"
+          android:textColor="#000000"
+          android:background="#BA68C8"
+          android:padding="4dp"
+          android:textSize="18dp"
+          android:textAlignment="center"
+          />
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:text="Madrugadores"
+          android:textColor="#000000"
+          android:background="#FFB74D"
+          android:padding="4dp"
+          android:textSize="18dp"
+          android:textAlignment="center"
+          />
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:text="Campaña del Rosario"
+          android:textColor="#000000"
+          android:background="#8BC34A"
+          android:padding="4dp"
+          android:textSize="18dp"
+          android:textAlignment="center"
+          />
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:text="Obra de Familias"
+          android:textColor="#000000"
+          android:background="#4DB6AC"
+          android:padding="4dp"
+          android:textSize="18dp"
+          android:textAlignment="center"
+          />
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:text="Fundadores"
+          android:textColor="#000000"
+          android:background="#FF8A65"
+          android:padding="4dp"
+          android:textSize="18dp"
+          android:textAlignment="center"
+          />
+
+
+  </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="16dp"
+            android:padding="16dp"
+            android:background="#FFFFFF">
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Diseño y Programación:"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="15dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Eric Luna"
+                android:textColor="#000000"
+                android:textSize="15dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Contacto:"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="15dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="luna.eric.santiago@gmail.com"
+                android:textSize="15dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
